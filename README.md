@@ -29,3 +29,5 @@ The purpose of this Netflix clone project is to mimic the core features of the r
 - 🎬 Fetch category data for movies and store it.
 - 📺 Create a component in `ListMovies.jsx` that will list movies for each category.
   - In this component, display the name of the category and list the movies belonging to that category.
+
+  abdulhamit bozkurt
